@@ -9,13 +9,13 @@
 | **ner_03_flair_tiny.ipynb** | Julia | **baseline performance results (0.81 f1-score)** from training a NER model |
 | **ner_03_results** | Julia | folder of training logs |
 
-## Topic Classification Task
+## Text Classification Task
 
 | File/Folder | Author | Description |
 | --- | --- | --- |
 | **textclass_baseline_dataprep.ipynb** | Curtis | synthesizing the 2.7M article dataset into something usable for purposes of baseline modeling |
-| **textclass_baseline_allthenews.ipynb** | Curtis | **baseline performance results ~0.95 f1-score)** from training a text classification model based on five news categories: business, healthcare, technology, sports, movies|
-| **/data/all-the-news-25k.csov** | Curtis | curated dataset of 25K articles equally distributed across five target news categories  |
+| **textclass_baseline_allthenews.ipynb** | Curtis | **baseline performance results (~0.95 f1-score with Logistic Regression)** from training a text classification model based on five news categories: business, healthcare, technology, sports, movies|
+| **/data/all-the-news-25k.csv** | Curtis | curated dataset of 25K articles equally distributed across five target news categories  |
 
 ## Pattern Recognition / Temporal Analysis
 
