@@ -9,7 +9,7 @@ GLG helps people make smarter decisions by connecting them to experts. Hundreds 
 2. Grouping similar client requests together
 3. Identifying underlying patterns in the data (NER, time-based patterns)
 
-### 1. :page_with_curl: Data
+### 1. Data :page_with_curl:
 
 #### Two Datasets: NER Corpus & All the News 2.0
 
@@ -20,7 +20,7 @@ GLG helps people make smarter decisions by connecting them to experts. Hundreds 
 | Labels      | Labeled                                                                                                   | Unlabeled                                                                                                       |
 | Task        | Supervised learning (named entity recognition)                                                            | Unsupervised learning (clustering)                                                                              |
 
-### 2. :boom: Approach 
+### 2. Approach  :boom: 
 
 This project will cover four areas of NLP/ML to meet the needs of the business and resourcefulness of GLG’s current data pipelines for efficient data storage and retrieval.
 
@@ -29,7 +29,7 @@ This project will cover four areas of NLP/ML to meet the needs of the business a
 3. Grouping similar requests together (unsupervised learning)
 4. Temporal direction of the customer request
 
-### 3. :clapper: Resources
+### 3. Resources :clapper: 
 
 1. [EDA](https://github.com/nickersonj/glg-capstone/tree/main/EDA)
 2. [Modeling](https://github.com/nickersonj/glg-capstone/tree/main/modeling)
