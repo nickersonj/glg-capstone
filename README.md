@@ -20,7 +20,7 @@ GLG helps people make smarter decisions by connecting them to experts. Hundreds 
 | Labels      | Labeled                                                                                                   | Unlabeled                                                                                                       |
 | Task        | Supervised learning (named entity recognition)                                                            | Unsupervised learning (clustering)                                                                              |
 
-### 2. Approach
+### 2. :boom: Approach 
 
 This project will cover four areas of NLP/ML to meet the needs of the business and resourcefulness of GLG’s current data pipelines for efficient data storage and retrieval.
 
