@@ -27,7 +27,7 @@
 
 | File/Folder | Author | Description |
 | --- | --- | --- |
-|  |  |  |
+| **cluster_01_scipy.ipynb** | Julia | **baseline performance** for Ward hierarchical clustering using scipy |
 
 ## Temporal Analysis — *Unsupervised*
 
