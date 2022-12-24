@@ -33,4 +33,4 @@
 
 | File/Folder | Author | Description |
 | --- | --- | --- |
-|  |  |  |
+|  **bertopic_clustering.ipynb**  | Curtis | The Topics Over Time visualization in the notebook could be helpful for showing how topics trend over time.
