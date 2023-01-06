@@ -1,6 +1,12 @@
 # Data and Model Iteration
 
-## Text Classification (Using Zeroshot Learning)
+## Named Entity Recognition (NER) — *Supervised*
+| File/Folder | Author | Description |
+| --- | --- | --- |
+| **ner_04_flair.ipynb** | Julia | **performance results (f1-score of 0.86)** using Flair to train on the full-sized NER dataset |
+| **/ner_04_results** | Julia | folder of training logs |
+
+## Text Classification — *Supervised*
 | File/Folder | Author | Description |
 | --- | --- | --- |
 | **textclass_zeroshot.ipynb** | Julia | **performance results (f1-score of 0.66)** for zero-shot text classification using Transformers |
