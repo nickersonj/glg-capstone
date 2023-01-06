@@ -3,7 +3,7 @@
 ## Text Classification (Using Zeroshot Learning)
 | File/Folder | Author | Description |
 | --- | --- | --- |
-| **textclass_zeroshot.ipynb** | Julia |
+| **textclass_zeroshot.ipynb** | Julia | **performance results (f1-score of 0.66)** for zero-shot text classification using Transformers |
 
 ## Topic Modeling — *Unsupervised*
 
