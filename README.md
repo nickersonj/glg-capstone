@@ -41,4 +41,4 @@ This project covers four areas of NLP/ML to meet the needs of the business and r
 
 1. [EDA](https://github.com/nickersonj/glg-capstone/tree/main/EDA)
 2. [Modeling](https://github.com/nickersonj/glg-capstone/tree/main/modeling)
-
+3. [Project Pitch (2022-01-19) slides](https://github.com/nickersonj/glg-capstone/tree/main/Project_Pitch_Slides_2022-01-19.pdf)
