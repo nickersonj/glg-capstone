@@ -34,8 +34,7 @@ This project covers four areas of NLP/ML to meet the needs of the business and r
 1. A deployable ML model that performs NER with reasonable accuracy.
 2. A clustering mechanism to find patterns from submitted topics or requests.
 3. A hierarchical clustering method that can produce a hierarchical dendrogram of topics submitted over a period of time.
-4. Some type of lightweight web interface for customers to interact with the model (e.g., Gradio for interface, HuggingFace Spaces for hosting).
-
+4. Some type of lightweight web interface for customers to interact with the model (e.g., Gradio for interface, HuggingFace Spaces for hosting). Example: [NER demo on Hugging Face](https://huggingface.co/spaces/jnick/NER)
 
 ### 4. Resources :clapper: 
 
