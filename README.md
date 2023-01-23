@@ -9,7 +9,7 @@ GLG helps people make smarter decisions by connecting them to experts. Hundreds 
 2. Grouping similar client requests together
 3. Identifying underlying patterns in the data (NER, time-based patterns)
 
-### :page_with_curl: Data 
+### 1. Data :page_with_curl: 
 
 #### Two Datasets: NER Corpus & All the News 2.0
 
