@@ -41,7 +41,9 @@ This project covers four areas of NLP/ML to meet the needs of the business and r
 ![GLG Capstone Tech Stack](./images/techstack.png "Capstone Tech Stack")
 
 ### 5. Limitations of Models / Data / ML Pipeline
-1. 
+1. Text classification model built on 100K news articles, not actual GLG data.
+2. Topic clustering model, including temporal analysis, to be used offline on large batch data.
+3. Temporal analysis conducted on 100K news articles, not actual GLG data. The standalone-analysis should be used as a proof-of-concept for how it can be used on actual GLG data.
 
 ### 6. How to Access Our Model
 1. The full working solution (NER and Text Classification) will be available on or around Feb 23, 2023: 
