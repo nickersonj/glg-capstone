@@ -36,11 +36,8 @@ This project covers four areas of NLP/ML to meet the needs of the business and r
 3. A hierarchical clustering method that can produce a hierarchical dendrogram of topics submitted over a period of time.
 4. Some type of lightweight web interface for customers to interact with the model (e.g., Gradio for interface, HuggingFace Spaces for hosting). Example: [NER demo on Hugging Face](https://huggingface.co/spaces/jnick/NER)
 
-### 4. In Progress - What's Next? :wrench: 
-1. Work through Model Flow (NER -> Topic Modeling -> Text Classification).
-2. Try Transformers to improve NER performance.
-3. Further explore unsupervised methods to understand topics (including fine tuning).
-4. Complete Gradio web interface for user interaction.
+### 4. Tech Stack :wrench: 
+![GLG Capstone Tech Stack](./images/techstack.png "Capstone Tech Stack")
 
 ### 5. Resources :clapper: 
 
