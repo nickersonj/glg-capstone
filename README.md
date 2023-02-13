@@ -1,6 +1,6 @@
 # GLG: Automated Text Analysis for Improved Service Demand
 
-By Curtis Pond, Julia Nickerson, and Sam Varghese
+By Julia Nickerson and Curtis Pond
 
 ### Problem Definition
 
@@ -29,20 +29,29 @@ This project covers four areas of NLP/ML to meet the needs of the business and r
 3. Grouping similar requests together (unsupervised learning)
 4. Temporal direction of the customer request
 
-### 3. Planned Deliverables :dart: 
+### 3. Deliverables :dart: 
 
 1. A deployable ML model that performs NER with reasonable accuracy.
-2. A clustering mechanism to find patterns from submitted topics or requests.
-3. A hierarchical clustering method that can produce a hierarchical dendrogram of topics submitted over a period of time.
-4. Some type of lightweight web interface for customers to interact with the model (e.g., Gradio for interface, HuggingFace Spaces for hosting). Example: [NER demo on Hugging Face](https://huggingface.co/spaces/jnick/NER)
+2. A text classification ML model that can group text into of three categories: healthcare, technology, or other.
+3. A clustering ML model to find patterns from submitted topics or requests.
+4. A hierarchical clustering method that can produce a hierarchical dendrogram of topics submitted over a period of time.
+5. Some type of lightweight web interface for customers to interact with the model (e.g., Gradio for interface, HuggingFace Spaces for hosting). Example: [NER demo on Hugging Face](https://huggingface.co/spaces/jnick/NER)
 
-### 4. In Progress - What's Next? :wrench: 
-1. Work through Model Flow (NER -> Topic Modeling -> Text Classification).
-2. Try Transformers to improve NER performance.
-3. Further explore unsupervised methods to understand topics (including fine tuning).
-4. Complete Gradio web interface for user interaction.
+### 4. Tech Stack
+![GLG Capstone Tech Stack](./images/techstack.png "Capstone Tech Stack")
 
-### 5. Resources :clapper: 
+### 5. Limitations of Models / Data / ML Pipeline
+1. Text classification model built on 100K news articles, not actual GLG data.
+2. Topic clustering model, including temporal analysis, to be used offline on large batch data.
+3. Temporal analysis conducted on 100K news articles, not actual GLG data. The standalone-analysis should be used as a proof-of-concept for how it can be used on actual GLG data.
+4. Named Entity Recognition (NER) model is based on a public corpus, not actual GLG data.
+5. NER model has poorer performance for tags not commonly seen in the training dataset, specifically events (**eve**), natural objects (**nat**), and manmade artifacts (**art**).
+
+### 6. How to Access Our Model
+1. The full working solution (NER and Text Classification) will be available on or around Feb 23, 2023: 
+https://huggingface.co/spaces/curtpond/mle10-glg-demo
+
+### 6. Resources :clapper: 
 
 1. [EDA](https://github.com/nickersonj/glg-capstone/tree/main/EDA)
 2. [Modeling](https://github.com/nickersonj/glg-capstone/tree/main/modeling)
