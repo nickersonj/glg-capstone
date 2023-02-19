@@ -38,7 +38,7 @@ This project covers four areas of NLP/ML to meet the needs of the business and r
 5. Some type of lightweight web interface for customers to interact with the model (e.g., Gradio for interface, HuggingFace Spaces for hosting). Example: [NER demo on Hugging Face](https://huggingface.co/spaces/jnick/NER)
 
 ### 4. Tech Stack
-![GLG Capstone Tech Stack](./images/techstack.png "Capstone Tech Stack")
+![GLG Capstone Tech Stack](./images/techstack2.png "Capstone Tech Stack")
 
 ### 5. Limitations of Models / Data / ML Pipeline
 1. Text classification model built on 100K news articles, not actual GLG data.
