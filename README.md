@@ -55,4 +55,7 @@ https://huggingface.co/spaces/curtpond/mle10-glg-demo
 
 1. [EDA](https://github.com/nickersonj/glg-capstone/tree/main/EDA)
 2. [Modeling](https://github.com/nickersonj/glg-capstone/tree/main/modeling)
-3. [Project Pitch (2022-01-19) slides](https://github.com/nickersonj/glg-capstone/tree/main/Project_Pitch_Slides_2022-01-19.pdf)
+3. [Explainability](https://github.com/nickersonj/glg-capstone/tree/main/explainability)
+4. [Deployment](https://github.com/nickersonj/glg-capstone/tree/main/deployment)
+5. [Final Capstone Presentation](https://github.com/nickersonj/glg-capstone/blob/main/final_capstone_jn-cp.pdf)
+3. [Original Project Pitch (2022-01-19) slides](https://github.com/nickersonj/glg-capstone/tree/main/Project_Pitch_Slides_2022-01-19.pdf)
